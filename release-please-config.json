@@ -3,11 +3,11 @@
 
   "packages": {
     "app-js": {
-      "path": "./app-js",
+      "path": "packages/app-js",
       "release-type": "node"
     },
     "app-py": {
-      "path": "./app-py",
+      "path": "packages/app-py",
       "release-type": "python"
     }
   },
